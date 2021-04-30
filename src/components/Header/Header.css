@@ -1,0 +1,38 @@
+.site-nav-link {
+  font-weight: bold;
+  color: black;
+  margin-top: 5px;
+  font-size: 17px;
+}
+.navbar-brand {
+  font-weight: bold;
+}
+.cart {
+  font-size: 25px;
+}
+.checkout-count {
+  position: relative;
+}
+.checkout-count .count {
+  position: absolute;
+  background-color: green;
+  color: white;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  border-radius: 50%;
+
+  right: 0px;
+  top: 0;
+}
+.profile {
+  position: relative;
+}
+.profile button {
+  position: absolute;
+  width: 100px;
+  text-align: center;
+  bottom: -35px;
+  left: -25px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

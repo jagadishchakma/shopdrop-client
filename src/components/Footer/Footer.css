@@ -1,0 +1,16 @@
+.footer {
+  background-color: rgb(213, 240, 213);
+  margin-top: 50px;
+  padding: 20px;
+}
+
+.footer .im-link li {
+  list-style-type: none;
+  font-size: 20px;
+  padding: 10px;
+  cursor: pointer;
+}
+.footer .contact p {
+  font-size: 20px;
+  padding: 10px;
+}

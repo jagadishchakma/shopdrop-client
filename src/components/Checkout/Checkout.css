@@ -1,0 +1,16 @@
+.checkout {
+  margin-top: 100px;
+}
+.checkout table {
+  padding: 20px;
+  font-size: 19px;
+}
+.total td,
+th {
+  font-weight: bold;
+}
+
+.proceed-check {
+  display: block;
+  width: 100px;
+}

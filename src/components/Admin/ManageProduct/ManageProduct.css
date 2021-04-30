@@ -1,0 +1,35 @@
+.p-edit {
+  border: none;
+  background-color: rgb(56, 189, 56);
+  margin-left: 10px;
+  border-radius: 5px;
+  font-size: 25px;
+  color: white;
+  text-align: center;
+}
+.p-delete {
+  border: none;
+  background-color: rgb(224, 57, 57);
+  margin-left: 10px;
+  border-radius: 5px;
+  font-size: 25px;
+  color: white;
+  text-align: center;
+}
+.manage-product table thead {
+  background-color: gray;
+  text-align: center;
+}
+.manage-product table tbody {
+  text-align: center;
+}
+.product-lists {
+  background-color: honeydew;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.loading {
+  width: 300px;
+  margin: 100px auto;
+}

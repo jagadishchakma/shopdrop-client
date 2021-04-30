@@ -1,0 +1,31 @@
+.card-header,
+.card-body,
+.card-footer {
+  border: none;
+}
+.card img {
+  width: 100%;
+}
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+}
+.card-footer h2 {
+  color: rgb(29, 100, 29);
+}
+
+.product {
+  margin-top: 20px;
+}
+@media screen and (min-width: 700px) {
+  .product .card {
+    position: relative;
+    height: 400px;
+  }
+}
+@media screen and (min-width: 900px) {
+  .product .card {
+    position: relative;
+    height: 500px;
+  }
+}

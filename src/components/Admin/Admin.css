@@ -1,0 +1,24 @@
+.admin-menu {
+  margin-top: 100px;
+  background-color: rgb(221, 231, 221);
+  border-radius: 10px;
+}
+.admin-menu ul {
+  display: flex;
+  justify-content: center;
+}
+.admin-menu ul li {
+  text-align: center;
+  list-style-type: none;
+  margin: 30px;
+}
+.admin-menu ul li a {
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.add-product form {
+  background-color: honeydew;
+  padding: 30px;
+  border-radius: 10px;
+}

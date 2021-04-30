@@ -1,0 +1,32 @@
+.site-search {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.site-search input {
+  border: none;
+  width: 70%;
+  padding: 22px 10px;
+  background-color: rgb(218, 228, 202);
+  border-radius: 4px 0px 0px 4px;
+}
+.site-search input:focus {
+  outline: none;
+}
+.site-search button {
+  width: 30%;
+  padding: 20px 0;
+  border-color: rgba(114, 185, 170, 0.575);
+  background-color: rgb(71, 161, 71);
+  color: white;
+  border-radius: 0px 4px 4px 0px;
+}
+.site-search button:focus {
+  outline: hotpink;
+}
+@media only screen and (min-width: 900px) {
+  .site-search {
+    width: 600px;
+    margin: 100px auto;
+  }
+}

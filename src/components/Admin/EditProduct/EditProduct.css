@@ -1,0 +1,14 @@
+.edit-product {
+  background-color: honeydew;
+  padding: 30px;
+  border-radius: 10px;
+}
+.p-preview {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.update-action {
+  display: flex;
+  justify-content: space-between;
+}
